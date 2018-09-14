@@ -1,0 +1,3 @@
+username
+password (not Twitch password go to https://twitchapps.com/tmi/ )
+channelname (usually the same as username)
